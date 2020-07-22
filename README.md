@@ -1,2 +1,1 @@
-# GoodNight
-web project
+The development of a webset called GoodNoght
