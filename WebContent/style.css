@@ -1,0 +1,47 @@
+@charset "UTF-8";
+
+.logo {
+	float: left;
+	width:33%;
+	height: 120px;
+	line-height:120px;
+	background-color:black;
+	vertical-align:middle;
+	text-align:center;
+}
+
+
+.text{
+	color:silver;
+	text-decoration: none;
+}
+.text2{
+	font-family:Tempus Sans ITC;
+	color: red;
+}
+.text3{
+	font-family:Times New Roman;
+	color: pink;
+}
+.div2left{
+	width:25%;
+	height:800px;
+	float:left;
+
+}
+.div2right{
+	width:70%;
+	height:700px;
+	float:left;
+}
+.div2goods{
+	width:30%;
+	height:280px;
+	float:left;
+	text-align:center;
+}
+.div3right{
+	width:70%;
+	height:50px;
+	float:left;
+}
